@@ -27,6 +27,10 @@ Each submission has a scoring option, where the instructor can assign score to t
 
 The instrutor can search for particular submission by typing the username on the search option which is located at the top-right of the all submissions.
 
+## Related code for the assignment
+
+github: https://github.com/chetanrule123/Image-editing-bootcamp
+
 ## My Resume
 
 Please visit https://resume.io/r/XLrwM3GsW
