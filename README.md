@@ -7,13 +7,17 @@ Please vist https://www.figma.com/file/e35Fp5PJkj2R7y7NjI50AU/intern_assignment?
 
 Go to https://chetanrule123.github.io/Image-editing-bootcamp/
 
+### Login / Register
+
+The instructor needs to login / register.
+
 ### Create task
 
 The instructor can create tasks by clicking the 'create Task +' button on the header section and he can view all created tasks on the home page. 
 
 ### Search tasks
 
-The instrutor can search for particular task by typing the task-name on the search option which is located at the top-right of the all tasks.
+The instructor can search for particular task by typing the task-name on the search option which is located at the top-right of the all tasks.
 
 ### Review submissions
 
