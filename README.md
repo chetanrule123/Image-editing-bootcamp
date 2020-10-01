@@ -1,5 +1,8 @@
 This project was developed with ReactJs
 
+## Design choices and assumptions I have made
+Please vist https://www.figma.com/file/e35Fp5PJkj2R7y7NjI50AU/intern_assignment?node-id=0%3A1
+
 ## Steps to run the application
 
 Go to https://chetanrule123.github.io/Image-editing-bootcamp/
