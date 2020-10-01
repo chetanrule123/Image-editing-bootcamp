@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "84340b59da7f30526a5f4a751aaf4138",
+    "revision": "136eebcb88005866c103a02618cd715f",
     "url": "/Image-editing-bootcamp/index.html"
   },
   {
-    "revision": "2b221fb8d43df5c5b53f",
+    "revision": "ba70ae7dbe22de767426",
     "url": "/Image-editing-bootcamp/static/css/main.a1ea719f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Image-editing-bootcamp/static/js/2.9cdce9d5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2b221fb8d43df5c5b53f",
-    "url": "/Image-editing-bootcamp/static/js/main.2fdab481.chunk.js"
+    "revision": "ba70ae7dbe22de767426",
+    "url": "/Image-editing-bootcamp/static/js/main.b685fbd7.chunk.js"
   },
   {
     "revision": "343f611c42ef46f7ad94",
