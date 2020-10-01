@@ -1,0 +1,33 @@
+.submission{
+    width: 30%;
+    margin: 20px 0;
+}
+.submission img{
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+}
+.submission_info{
+    background: white;
+    padding: 20px;
+    border-radius: 0 0 10px 10px;
+}
+.score{
+    justify-content: space-between;
+}
+.score button{
+    font-size: 12px;
+    background: rgb(242, 255, 66);
+    padding: 4px 10px;
+    border-radius: 3px;
+}
+@media only screen and (max-width: 800px){
+    .submission{
+        width: 45%;
+    }
+}
+@media only screen and (max-width: 600px){
+    .submission{
+        width: 100%;
+        margin: 20px 0;
+    }
+}

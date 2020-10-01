@@ -1,0 +1,68 @@
+.addTask_con{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.6);
+    overflow: scroll;
+}
+.addTask_form{
+    background: white;
+    flex-direction: column;
+    padding: 30px;
+    width: auto;
+    margin: 0;
+    border-radius: 10px;
+}
+.addTask_form .title{
+    font-size: 20px;
+    font-weight: 800;
+    letter-spacing: 1.5px;
+    color: #479CFF;
+    margin-bottom: 15px;
+}
+.addTask_form img{
+    width: 300px;    
+}
+.upload_img_butt{
+    border: 2px dashed black;
+    border-radius: 5px;
+    padding: 3px 10px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin-top: 10px;
+    background: rgb(136, 136, 136);
+    color: white;
+    font-size: 12px;
+}
+.addTask_form input{
+    height: 30px;
+}
+.addTask_form .inputs{
+    width: 300px;
+    border: 2px solid #479CFF;
+    margin-top: 20px;
+}
+.addTask_form .func_butt{
+    background: rgb(250, 206, 110);
+    border-radius: 5px;
+    padding: 5px 15px;
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+}
+.addTask_form .close{
+    background: rgb(253, 107, 107);
+    color: white;
+}
+@media only screen and (max-width:500px){
+    .addTask_form{
+        width: 100%;
+        margin: 30px;
+    }
+    .addTask_form .inputs{
+        width: 100%;
+    }
+}

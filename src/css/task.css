@@ -1,0 +1,37 @@
+.task{
+    width: 30%;
+    margin: 20px 0;
+}
+.task img{
+    width: 100%;
+    border-radius: 5px 5px 0 0;
+}
+.task_info{
+    padding: 10px;
+    background: white;
+    border-radius: 0 0 5px 5px;
+}
+.task_info button{
+    display: flex;
+    align-items: center;
+    background: rgb(252, 127, 127);
+    color: white;
+    float: right;
+}
+.task_desc{
+    font-weight: 500;
+    font-size: 12px;
+    margin: 10px 0;
+}
+
+@media only screen and (max-width: 800px){
+    .task{
+        width: 45%;
+    }
+}
+@media only screen and (max-width: 600px){
+    .task{
+        width: 100%;
+        margin: 20px;
+    }
+}
