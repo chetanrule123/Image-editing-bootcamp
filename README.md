@@ -23,3 +23,7 @@ Each submission has a scoring option, where the instructor can assign score to t
 ### Search submission
 
 The instrutor can search for particular submission by typing the username on the search option which is located at the top-right of the all submissions.
+
+## My Resume
+
+Please visit https://resume.io/r/XLrwM3GsW
