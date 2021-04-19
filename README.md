@@ -5,7 +5,7 @@ Please vist https://www.figma.com/file/e35Fp5PJkj2R7y7NjI50AU/intern_assignment?
 
 ## Steps to run the application
 
-Go to https://chetanrule123.github.io/Image-editing-bootcamp/
+Go to https://chetanrule365.github.io/Image-editing-bootcamp/
 
 ### Login / Register
 
